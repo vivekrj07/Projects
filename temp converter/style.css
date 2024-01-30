@@ -1,0 +1,9 @@
+*{
+}
+#wrapper{
+    padding: 50px;
+    border: 1px solid black;
+    color: black;
+text-align: center;
+justify-content: center;
+}
